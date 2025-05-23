@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on building scalable and user-friendly web applications at Uinfo Technology Pvt. Ltd, focusing on React and Next.js frameworks.<br>👯 I’m looking to collaborate on innovative front-end projects that require clean UI, state management, and component reusability.<br>🤝 I’m looking for help with exploring advanced AWS services and optimizing serverless architectures for performance and cost-efficiency.<br>🌱 I’m currently learning advanced DevOps practices, AI integrations in frontend, and exploring tools like V0.dev, DeepSeek, and openui.fly.dev.<br>💬 Ask me about React, Next.js, Tailwind CSS, UI/UX design, CI/CD, and building production-ready web apps.<br>⚡ Fun fact: I once organized a robotics competition and served as the Technical Secretary of my engineering branch—tech leadership runs in my code!
+🔭 I’m currently working on building scalable and user-friendly full-stack web applications at Uinfo Technology Pvt. Ltd, using the MERN stack, with a focus on React.js, Next.js, Node.js, and Express.js.
+👯 I’m looking to collaborate on innovative full-stack projects that demand clean UI, robust API design, state management, and reusability across the stack.
+🤝 I’m exploring advanced AWS services, serverless architecture, and strategies to optimize performance and cost-efficiency.
+🌱 I’m currently learning advanced DevOps practices, TypeScript, database optimization, and AI integrations using tools like V0.dev, DeepSeek, and openui.fly.dev.
+💬 Ask me about React, Next.js, Node.js, Express.js, MongoDB, CI/CD, Tailwind CSS, UI/UX design, REST APIs, and building production-ready apps.
+⚡ Fun fact: I once organized a robotics competition and served as the Technical Secretary of my engineering branch—tech leadership runs in my code!
 
 
 ## 🌐 Socials:
